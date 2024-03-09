@@ -38,5 +38,7 @@ Feel free to customize the application to suit your needs. You can modify the CS
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Screenshots[Recording 2024-03-09 152722.zip](https://github.com/Ayushd1409/TimerAndStopwatch/files/14545942/Recording.2024-03-09.152722.zip)
+## Screenshots https://github.com/Ayushd1409/TimerAndStopwatch/assets/115350571/a3e0c879-6f4f-4dd0-89e8-edb99d50a141
+
+
 
